@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/model-memory-calculator/static/css/main.269ef4d4.css",
-    "main.js": "/model-memory-calculator/static/js/main.2a0b2ab5.js",
-    "static/media/logo-dark-mode.png": "/model-memory-calculator/static/media/logo-dark-mode.0c51ff42111d2779453a.png",
-    "static/media/logo-light-mode.png": "/model-memory-calculator/static/media/logo-light-mode.6bc3b2d5ed1ec2d7d721.png",
-    "index.html": "/model-memory-calculator/index.html",
-    "main.269ef4d4.css.map": "/model-memory-calculator/static/css/main.269ef4d4.css.map",
-    "main.2a0b2ab5.js.map": "/model-memory-calculator/static/js/main.2a0b2ab5.js.map"
+    "main.css": "/static/css/main.2b7e894b.css",
+    "main.js": "/static/js/main.0dc92012.js",
+    "static/media/logo-dark-mode.png": "/static/media/logo-dark-mode.0c51ff42111d2779453a.png",
+    "static/media/logo-light-mode.png": "/static/media/logo-light-mode.6bc3b2d5ed1ec2d7d721.png",
+    "index.html": "/index.html",
+    "main.2b7e894b.css.map": "/static/css/main.2b7e894b.css.map",
+    "main.0dc92012.js.map": "/static/js/main.0dc92012.js.map"
   },
   "entrypoints": [
-    "static/css/main.269ef4d4.css",
-    "static/js/main.2a0b2ab5.js"
+    "static/css/main.2b7e894b.css",
+    "static/js/main.0dc92012.js"
   ]
 }

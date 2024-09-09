@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://titanml.github.io/model-memory-calculator/",
+  "homepage": "/",
   "proxy": "http://localhost:3000",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
